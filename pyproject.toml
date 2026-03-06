@@ -1,0 +1,25 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "flask>=3.1.2",
+    "flask-bcrypt>=1.0.1",
+    "flask-login>=0.6.3",
+    "flask-sqlalchemy>=3.1.1",
+    "google-genai>=1.62.0",
+    "google-generativeai>=0.8.6",
+    "pillow==12.1.1",
+    "cryptography==46.0.5",
+    "psycopg2-binary>=2.9.11",
+    "qrcode>=8.2",
+    "sift-stack-py>=0.10.0",
+    "werkzeug>=3.1.5",
+    "resend>=2.23.0",
+    "bleach>=6.3.0",
+    "flask-compress>=1.23",
+    "flask-talisman>=1.1.0",
+    "flask-wtf>=1.2.2",
+]
