@@ -5,6 +5,7 @@ Flask-Bcrypt==1.0.1
 Flask-WTF==1.2.1
 Flask-Talisman==1.1.0
 Flask-Compress==1.14
+Flask-Caching==2.1.0
 
 psycopg2-binary==2.9.9
 gunicorn==21.2.0
