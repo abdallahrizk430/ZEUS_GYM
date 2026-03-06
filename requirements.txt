@@ -1,6 +1,7 @@
-Flask
+ Flask
 Flask-SQLAlchemy
 Flask-Login
+Flask-Bcrypt
 Flask-WTF
 psycopg2-binary
 gunicorn
