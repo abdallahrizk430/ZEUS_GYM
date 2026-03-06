@@ -5,3 +5,5 @@ gunicorn
 python-dotenv
 supabase
 werkzeug
+flask_login
+flask_wtf
