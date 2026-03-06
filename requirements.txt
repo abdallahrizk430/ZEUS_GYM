@@ -83,3 +83,4 @@ webencodings==0.5.1
 websockets==15.0.1
 Werkzeug==3.1.5
 WTForms==3.2.1
+gunicorn==23.0.0
