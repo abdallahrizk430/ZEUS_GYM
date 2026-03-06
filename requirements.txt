@@ -1,9 +1,10 @@
- Flask
+Flask
 Flask-SQLAlchemy
+Flask-Login
+Flask-WTF
 psycopg2-binary
 gunicorn
 python-dotenv
 supabase
 werkzeug
-flask_login
-flask_wtf
+email-validator
