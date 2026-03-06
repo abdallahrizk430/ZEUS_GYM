@@ -9,3 +9,4 @@ python-dotenv
 supabase
 werkzeug
 email-validator
+flask-talisman
